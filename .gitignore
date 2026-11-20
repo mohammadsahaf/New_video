@@ -1,0 +1,12 @@
+node_modules
+out
+.env
+*.part.mp4
+.remotion
+
+# footage tool caches (re-downloadable)
+videos/*/footage/cache/
+videos/_search/
+videos/*/footage/looks/
+public/v06/
+__pycache__/

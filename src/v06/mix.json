@@ -1,0 +1,304 @@
+{
+ "length": 1490.35,
+ "voice": "public/v06/voice.mp3",
+ "music": [
+  {
+   "file": "public/audio/music/intro/beginning-6.mp3",
+   "at": 0,
+   "from": 0,
+   "to": 63.2,
+   "fadeIn": 0.5,
+   "fadeOut": 3,
+   "gain": 0.21
+  },
+  {
+   "file": "public/audio/music/horror/tragedy-waiting-to-happen.mp3",
+   "at": 63.2,
+   "from": 0,
+   "to": 118.52,
+   "fadeIn": 1.5,
+   "fadeOut": 3,
+   "gain": 0.21
+  },
+  {
+   "file": "public/audio/music/horror/between-life-and-death.mp3",
+   "at": 181.72,
+   "from": 0,
+   "to": 91.28,
+   "fadeIn": 1.5,
+   "fadeOut": 3,
+   "gain": 0.21
+  },
+  {
+   "file": "public/audio/music/ambient/cave-3.mp3",
+   "at": 273.0,
+   "from": 0,
+   "to": 139.91,
+   "fadeIn": 1.5,
+   "fadeOut": 3,
+   "gain": 0.21
+  },
+  {
+   "file": "public/audio/music/ambient/cave-5.mp3",
+   "at": 412.91,
+   "from": 0,
+   "to": 9.09,
+   "fadeIn": 1.5,
+   "fadeOut": 3,
+   "gain": 0.21
+  },
+  {
+   "file": "public/audio/music/dark/game-over-4.mp3",
+   "at": 422.0,
+   "from": 0,
+   "to": 97.5,
+   "fadeIn": 1.5,
+   "fadeOut": 3,
+   "gain": 0.21
+  },
+  {
+   "file": "public/audio/music/ambient/cave-4.mp3",
+   "at": 519.5,
+   "from": 0,
+   "to": 139.5,
+   "fadeIn": 1.5,
+   "fadeOut": 3,
+   "gain": 0.21
+  },
+  {
+   "file": "public/audio/music/intro/beginning-4.mp3",
+   "at": 659.0,
+   "from": 0,
+   "to": 145.97,
+   "fadeIn": 1.5,
+   "fadeOut": 3,
+   "gain": 0.21
+  },
+  {
+   "file": "public/audio/music/ambient/cave-3.mp3",
+   "at": 804.97,
+   "from": 0,
+   "to": 43.33,
+   "fadeIn": 1.5,
+   "fadeOut": 3,
+   "gain": 0.21
+  },
+  {
+   "file": "public/audio/music/horror/haunted-houses.mp3",
+   "at": 848.3,
+   "from": 0,
+   "to": 110.4,
+   "fadeIn": 1.5,
+   "fadeOut": 3,
+   "gain": 0.21
+  },
+  {
+   "file": "public/audio/music/horror/floor-2.mp3",
+   "at": 958.7,
+   "from": 0,
+   "to": 164.0,
+   "fadeIn": 1.5,
+   "fadeOut": 3,
+   "gain": 0.21
+  },
+  {
+   "file": "public/audio/music/horror/abducted.mp3",
+   "at": 1130.4,
+   "from": 0,
+   "to": 189.44,
+   "fadeIn": 1.5,
+   "fadeOut": 3,
+   "gain": 0.21
+  },
+  {
+   "file": "public/audio/music/intro/beginning-3-v-2.mp3",
+   "at": 1327.7,
+   "from": 0,
+   "to": 127.97,
+   "fadeIn": 1.5,
+   "fadeOut": 3,
+   "gain": 0.21
+  },
+  {
+   "file": "public/audio/music/ambient/cave-1.mp3",
+   "at": 1455.67,
+   "from": 0,
+   "to": 34.68,
+   "fadeIn": 1.5,
+   "fadeOut": 3,
+   "gain": 0.21
+  }
+ ],
+ "sfx": [
+  {
+   "id": "sfx/paper/slide",
+   "at": 6.78,
+   "vol": 0.12
+  },
+  {
+   "id": "sfx/impact/cinematic-heavy",
+   "at": 63.66,
+   "vol": 0.14
+  },
+  {
+   "id": "sfx/whoosh/cinematic",
+   "at": 63.76,
+   "vol": 0.14
+  },
+  {
+   "id": "sfx/paper/page-flip",
+   "at": 77.38,
+   "vol": 0.12
+  },
+  {
+   "id": "sfx/paper/slide",
+   "at": 261.88,
+   "vol": 0.12
+  },
+  {
+   "id": "sfx/paper/page-flip",
+   "at": 272.98,
+   "vol": 0.12
+  },
+  {
+   "id": "sfx/whoosh/soft-medium",
+   "at": 273.33,
+   "vol": 0.14
+  },
+  {
+   "id": "sfx/paper/slide",
+   "at": 299.58,
+   "vol": 0.12
+  },
+  {
+   "id": "sfx/whoosh/soft-short",
+   "at": 351.11,
+   "vol": 0.14
+  },
+  {
+   "id": "sfx/paper/page-flip",
+   "at": 373.98,
+   "vol": 0.12
+  },
+  {
+   "id": "sfx/paper/slide",
+   "at": 388.58,
+   "vol": 0.12
+  },
+  {
+   "id": "sfx/paper/page-flip",
+   "at": 398.78,
+   "vol": 0.12
+  },
+  {
+   "id": "sfx/impact/cinematic-heavy",
+   "at": 422.23,
+   "vol": 0.14
+  },
+  {
+   "id": "sfx/whoosh/double",
+   "at": 422.33,
+   "vol": 0.14
+  },
+  {
+   "id": "sfx/paper/slide",
+   "at": 478.28,
+   "vol": 0.12
+  },
+  {
+   "id": "sfx/whoosh/cinematic",
+   "at": 488.53,
+   "vol": 0.14
+  },
+  {
+   "id": "sfx/paper/page-flip",
+   "at": 509.98,
+   "vol": 0.12
+  },
+  {
+   "id": "sfx/whoosh/soft-medium",
+   "at": 519.43,
+   "vol": 0.14
+  },
+  {
+   "id": "sfx/whoosh/soft-short",
+   "at": 658.63,
+   "vol": 0.14
+  },
+  {
+   "id": "sfx/whoosh/double",
+   "at": 757.21,
+   "vol": 0.14
+  },
+  {
+   "id": "sfx/whoosh/cinematic",
+   "at": 848.62,
+   "vol": 0.14
+  },
+  {
+   "id": "sfx/whoosh/soft-medium",
+   "at": 959.04,
+   "vol": 0.14
+  },
+  {
+   "id": "sfx/whoosh/soft-short",
+   "at": 1048.26,
+   "vol": 0.14
+  },
+  {
+   "id": "sfx/impact/cinematic-heavy",
+   "at": 1083.26,
+   "vol": 0.14
+  },
+  {
+   "id": "sfx/whoosh/double",
+   "at": 1131.12,
+   "vol": 0.14
+  },
+  {
+   "id": "sfx/impact/cinematic-heavy",
+   "at": 1143.15,
+   "vol": 0.14
+  },
+  {
+   "id": "sfx/whoosh/cinematic",
+   "at": 1197.58,
+   "vol": 0.14
+  },
+  {
+   "id": "sfx/whoosh/soft-medium",
+   "at": 1328.2,
+   "vol": 0.14
+  },
+  {
+   "id": "sfx/whoosh/soft-short",
+   "at": 1367.35,
+   "vol": 0.14
+  },
+  {
+   "id": "sfx/impact/distant-boom",
+   "at": 1373.73,
+   "vol": 0.13
+  },
+  {
+   "id": "sfx/impact/distant-boom",
+   "at": 1385.42,
+   "vol": 0.13
+  },
+  {
+   "id": "sfx/impact/distant-boom",
+   "at": 1402.83,
+   "vol": 0.13
+  },
+  {
+   "id": "sfx/impact/distant-boom",
+   "at": 1416.18,
+   "vol": 0.13
+  },
+  {
+   "id": "sfx/whoosh/double",
+   "at": 1451.75,
+   "vol": 0.14
+  }
+ ]
+}
