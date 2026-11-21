@@ -72,7 +72,7 @@ Shamash-shum-ukin king of Babylon, about 45, same family face as Ashurbanipal bu
 Character reference sheet, Shamash-shum-ukin king of Babylon, about 45, same family face as Ashurbanipal but heavier and older, tired resentful eyes, shorter curled black beard with grey at the chin, tall rounded Babylonian royal cap with a gold band, long fringed robe in deep orange and blue. Five views on one neutral mid-grey studio background: front head-and-shoulders, three-quarter view, side profile, full body front, full body back. Same face and same costume in every view, soft even studio lighting, photoreal, ancient Near Eastern accuracy, no text, no labels, no watermark.
 ```
 
-## 6. اونتاش ناپیریشا، شاه ایلام  `[UNTASH]` 🔁 کلاه شبیه کلاه لبه‌دار امروزی شده؛ باید کلاه نمدی گرد و کوتاه ایلامی باشد
+## 6. اونتاش ناپیریشا، شاه ایلام  `[UNTASH]` ✅
 **دوره:** حدود ۱۲۵۰ پ.م · **نقش:** سازنده‌ی چغازنبیل · **در تصویرهای:** P018، P058
 
 **بلوک قفل‌شده:**
@@ -108,7 +108,7 @@ Shutruk-Nahhunte king of Elam, about 50, hard ambitious face, deep-set eyes, bro
 Character reference sheet, Shutruk-Nahhunte king of Elam, about 50, hard ambitious face, deep-set eyes, broad shoulders, long black beard streaked with grey and tied at the end, brimless tall round cap with a gold band, dark robe with red fringes, a bronze sword at the hip. Five views on one neutral mid-grey studio background: front head-and-shoulders, three-quarter view, side profile, full body front, full body back. Same face and same costume in every view, soft even studio lighting, photoreal, ancient Near Eastern accuracy, no text, no labels, no watermark.
 ```
 
-## 9. پوزور اینشوشیناک  `[PUZUR]` 🔁 کلاه خزدار/بافتنی شده؛ باید عرقچین نمدی صاف باشد
+## 9. پوزور اینشوشیناک  `[PUZUR]` ✅
 **دوره:** حدود ۲۱۰۰ پ.م · **نقش:** اولین قهرمان ایلام · **در تصویرهای:** P036، P038، P039
 
 **بلوک قفل‌شده:**
@@ -204,7 +204,7 @@ Esarhaddon old king of Assyria, about 60, sick and pale, long white curled beard
 Cinematic realistic historical film still, 16:9, ancient Elam and Mesopotamia, palette of deep lapis-lazuli blue and burnt terracotta with warm gold highlights, low-key dramatic lighting, oil-lamp and torch glow, volumetric dust and smoke, shallow depth of field, 35mm anamorphic lens, subtle film grain, historically accurate costume and architecture, no text, no letters, no logos, no watermark, no modern objects, no cartoon, no knitted or fur hats, no modern brimmed hats. Portrait of Esarhaddon old king of Assyria, about 60, sick and pale, long white curled beard in horizontal rows, royal tiara set aside on a table, white linen robe.
 ```
 
-## 17. ایبی‌سین، شاه اور  `[IBBI-SIN]` 🔁 کلاه بافتنی شده؛ باید نمدی صاف با لبه‌ی لوله‌ای باشد
+## 17. ایبی‌سین، شاه اور  `[IBBI-SIN]` ✅
 **دوره:** حدود ۲۰۰۴ پ.م · **نقش:** سقوط اور · **در تصویرهای:** P044
 
 **بلوک قفل‌شده:**
@@ -228,7 +228,7 @@ Sargon of Akkad, about 50, stern face, elaborately braided long beard, hair gath
 Cinematic realistic historical film still, 16:9, ancient Elam and Mesopotamia, palette of deep lapis-lazuli blue and burnt terracotta with warm gold highlights, low-key dramatic lighting, oil-lamp and torch glow, volumetric dust and smoke, shallow depth of field, 35mm anamorphic lens, subtle film grain, historically accurate costume and architecture, no text, no letters, no logos, no watermark, no modern objects, no cartoon, no knitted or fur hats, no modern brimmed hats. Portrait of Sargon of Akkad, about 50, stern face, elaborately braided long beard, hair gathered in a bun at the back held by a headband, long robe, a curved bronze sickle-sword.
 ```
 
-## 19. حمورابی، شاه بابل  `[HAMMURABI]` 🔁 تاج پَردار و دیوار آجر لعابی آبی با شیر (دروازه‌ی ایشتار ۱۲۰۰ سال بعد ساخته شد)
+## 19. حمورابی، شاه بابل  `[HAMMURABI]` ✅
 **دوره:** حدود ۱۷۶۴ پ.م · **نقش:** دشمن ایلام · **در تصویرهای:** P056
 
 **بلوک قفل‌شده:**
@@ -240,7 +240,7 @@ Hammurabi king of Babylon around 1760 BCE, about 45, long rectangular beard, low
 Cinematic realistic historical film still, 16:9, ancient Elam and Mesopotamia, palette of deep lapis-lazuli blue and burnt terracotta with warm gold highlights, low-key dramatic lighting, oil-lamp and torch glow, volumetric dust and smoke, shallow depth of field, 35mm anamorphic lens, subtle film grain, historically accurate costume and architecture, no text, no letters, no logos, no watermark, no modern objects, no cartoon, no knitted or fur hats, no modern brimmed hats. Portrait of Hammurabi king of Babylon around 1760 BCE, about 45, long rectangular beard, low round cap of smooth felt with a thick rolled brim (no crown, no feathers), plain long robe draped over one shoulder, right hand raised in a gesture of respect, in a plain sun-dried mud-brick palace (no blue glazed bricks, no lion reliefs).
 ```
 
-## 20. نبوکدنصر یکم، شاه بابل  `[NEBUCHADNEZZAR]` 🔁 دیوار آجر لعابی آبی با شیر مال نبوکدنصر دوم است، نه یکم؛ کلاه هم بافتنی شده
+## 20. نبوکدنصر یکم، شاه بابل  `[NEBUCHADNEZZAR]` ✅
 **دوره:** حدود ۱۱۱۰ پ.م · **نقش:** انتقام مردوخ · **در تصویرهای:** P077
 
 **بلوک قفل‌شده:**
@@ -252,7 +252,7 @@ Nebuchadnezzar I king of Babylon around 1110 BCE, about 40, intense determined f
 Cinematic realistic historical film still, 16:9, ancient Elam and Mesopotamia, palette of deep lapis-lazuli blue and burnt terracotta with warm gold highlights, low-key dramatic lighting, oil-lamp and torch glow, volumetric dust and smoke, shallow depth of field, 35mm anamorphic lens, subtle film grain, historically accurate costume and architecture, no text, no letters, no logos, no watermark, no modern objects, no cartoon, no knitted or fur hats, no modern brimmed hats. Portrait of Nebuchadnezzar I king of Babylon around 1110 BCE, about 40, intense determined face, long black beard, tall smooth cylindrical royal cap with a small crest at the top, belted fringed robe, a bronze sword, in a plain mud-brick hall (no blue glazed bricks, no lion or dragon reliefs, no Ishtar Gate).
 ```
 
-## 21. کاتب هخامنشی  `[PERSIAN-SCRIBE]` 🔁 کلاه بافتنی شده؛ باید کلاه نمدی بلند چین‌دار هخامنشی باشد
+## 21. کاتب هخامنشی  `[PERSIAN-SCRIBE]` ✅
 **دوره:** حدود ۵۰۰ پ.م · **نقش:** آخر فیلم · **در تصویرهای:** P133
 
 **بلوک قفل‌شده:**

@@ -42,6 +42,7 @@ Greek or Roman armor, horned helmets, medieval armor, turbans, Arabic script, Pe
 
 
 
+
 ## تصویرها (P) · به ترتیب نریشن · آماده‌ی کپی (پایه و شخصیت داخلش هست)
 
 

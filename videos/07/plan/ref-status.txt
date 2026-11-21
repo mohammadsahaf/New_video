@@ -3,10 +3,10 @@ ASHURBANIPAL ✅
 TEUMMAN ✅
 HUMBAN-HALTASH ✅
 SHAMASH-SHUM-UKIN ✅
-UNTASH 🔁 کلاه شبیه کلاه لبه‌دار امروزی شده؛ باید کلاه نمدی گرد و کوتاه ایلامی باشد
+UNTASH ✅
 NAPIRASU ✅
 SHUTRUK ✅
-PUZUR 🔁 کلاه خزدار/بافتنی شده؛ باید عرقچین نمدی صاف باشد
+PUZUR ✅
 CYRUS ✅
 ASSYRIAN-SOLDIER ✅
 ELAMITE-SOLDIER-NEO ✅
@@ -14,11 +14,11 @@ ELAMITE-SOLDIER-MIDDLE ✅
 ELAMITE-SOLDIER-OLD ✅
 ASSYRIAN-QUEEN ✅
 ESARHADDON ✅
-IBBI-SIN 🔁 کلاه بافتنی شده؛ باید نمدی صاف با لبه‌ی لوله‌ای باشد
+IBBI-SIN ✅
 SARGON ✅
-HAMMURABI 🔁 تاج پَردار و دیوار آجر لعابی آبی با شیر (دروازه‌ی ایشتار ۱۲۰۰ سال بعد ساخته شد)
-NEBUCHADNEZZAR 🔁 دیوار آجر لعابی آبی با شیر مال نبوکدنصر دوم است، نه یکم؛ کلاه هم بافتنی شده
-PERSIAN-SCRIBE 🔁 کلاه بافتنی شده؛ باید کلاه نمدی بلند چین‌دار هخامنشی باشد
+HAMMURABI ✅
+NEBUCHADNEZZAR ✅
+PERSIAN-SCRIBE ✅
 BABYLONIAN-SOLDIER ✅
 AKKADIAN-SOLDIER ✅
 SUMERIAN ✅
