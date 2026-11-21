@@ -59,3 +59,18 @@ for k,pid,kind,pr,mo in rows:
 out.append('\n---\n## آثار واقعی (A)\nدر `public/v07/art/`. اعتبارها در `CREDITS.md`.\n')
 open('image-prompts.md','w').write('\n'.join(out))
 print('built',n)
+# shot list
+lines={}
+for l in open('/tmp/claude-0/lines.txt') if os.path.exists('/tmp/claude-0/lines.txt') else []:
+    k,t=l.split(' ',1); lines[k]=t.strip()
+sh=['# فهرست جمله‌به‌جمله · ویدیو ۰۷\n','P = عکس تو، 🎥 = کلیپ هم بشود، A = اثر واقعی، M = نقشه‌ی کد، T = کارت کد.\n']
+n=0; sec=None
+for k,v in S.items():
+    if k[:2]!=sec: sec=k[:2]; sh.append(f'\n## بخش {sec}\n')
+    it=[]
+    for x in v:
+        kind,body=x.split('|',1)
+        if kind in 'PC': n+=1; it.append(f'P{n:03d}'+(' 🎥' if kind=='C' else ''))
+        else: it.append(f'{kind}: {body.strip()}')
+    sh.append(f'- **{k}** «{lines.get(k,"")[:60]}…» ← {" · ".join(it)}')
+if lines: open('shot-list.md','w').write('\n'.join(sh)+'\n')

@@ -44,6 +44,8 @@ Greek or Roman armor, horned helmets, medieval armor, turbans, Arabic script, Pe
 
 
 
+
+
 ## تصویرها (P) · به ترتیب نریشن · آماده‌ی کپی (پایه و شخصیت داخلش هست)
 
 
@@ -67,10 +69,11 @@ Cinematic realistic historical film still, 16:9, ancient Elam and Mesopotamia, p
 ```
 کلیپ: `handheld rush forward, torches swing, sparks`
 
-**P004** · 01.04 · مرجع: REF-SCRIBE
+**P004** 🎥 · 01.04 · مرجع: REF-SCRIBE
 ```
 Cinematic realistic historical film still, 16:9, ancient Elam and Mesopotamia, palette of deep lapis-lazuli blue and burnt terracotta with warm gold highlights, low-key dramatic lighting, oil-lamp and torch glow, volumetric dust and smoke, shallow depth of field, 35mm anamorphic lens, subtle film grain, historically accurate costume and architecture, no text, no letters, no logos, no watermark, no modern objects, no cartoon, no knitted or fur hats, no modern brimmed hats. the young scribe kneeling at the base of a temple wall, sliding a small clay tablet into a hollow behind a loose baked brick, his hands shaking, low angle. Character details — the young scribe: a young Elamite temple scribe about 20 years old, thin oval face, large dark almond eyes, thick black eyebrows, a small pale scar on the chin, short black curly hair held by a thin ochre cloth headband tied at the back, sparse young beard, clay-stained fingertips, plain undyed wool tunic to the knees with a fringed hem and a narrow red belt.
 ```
+کلیپ: `slow push-in, his hands tremble, the brick slides in, dust falls`
 
 **P005** · 01.04
 ```
@@ -83,10 +86,11 @@ Cinematic realistic historical film still, 16:9, ancient Elam and Mesopotamia, p
 ```
 کلیپ: `door shakes with each blow, dust falls, light flickers`
 
-**P007** · 01.06 · مرجع: REF-ASHURBANIPAL
+**P007** 🎥 · 01.06 · مرجع: REF-ASHURBANIPAL
 ```
 Cinematic realistic historical film still, 16:9, ancient Elam and Mesopotamia, palette of deep lapis-lazuli blue and burnt terracotta with warm gold highlights, low-key dramatic lighting, oil-lamp and torch glow, volumetric dust and smoke, shallow depth of field, 35mm anamorphic lens, subtle film grain, historically accurate costume and architecture, no text, no letters, no logos, no watermark, no modern objects, no cartoon, no knitted or fur hats, no modern brimmed hats. King Ashurbanipal standing on a hill at night looking down at the burning Susa, cold expressionless face lit from below by the fire. Character details — King Ashurbanipal: Ashurbanipal king of Assyria, about 40 years old, hawk-like nose, narrow cold eyes lined with black kohl, long rectangular black beard curled in tight horizontal rows with a few gold rings woven in, shoulder-length curled hair, tall truncated-cone white-and-gold royal tiara with a small point on top and two long ribbons behind, heavy fringed robe embroidered with rosettes in red and gold, gold rosette bracelets on both wrists, a dagger in his belt.
 ```
+کلیپ: `slow push-in on his face, firelight flickers, smoke drifts behind`
 
 **P008** 🎥 · 01.07 · مرجع: REF-ASSYRIAN-SOLDIER
 ```
@@ -239,10 +243,11 @@ Cinematic realistic historical film still, 16:9, ancient Elam and Mesopotamia, p
 
 ### بخش 05
 
-**P035** · 05.03
+**P035** 🎥 · 05.03
 ```
 Cinematic realistic historical film still, 16:9, ancient Elam and Mesopotamia, palette of deep lapis-lazuli blue and burnt terracotta with warm gold highlights, low-key dramatic lighting, oil-lamp and torch glow, volumetric dust and smoke, shallow depth of field, 35mm anamorphic lens, subtle film grain, historically accurate costume and architecture, no text, no letters, no logos, no watermark, no modern objects, no cartoon, no knitted or fur hats, no modern brimmed hats. Sargon on a war cart pulled by onagers, Akkadian soldiers marching east. Character details — Sargon: Sargon of Akkad, about 50, stern face, elaborately braided long beard, hair gathered in a bun at the back held by a headband, long robe, a curved bronze sickle-sword | Akkadian soldiers: Akkadian soldiers around 2300 BCE, bearded, conical leather helmets, kilts, bows and spears, war carts pulled by onagers, no horses.
 ```
+کلیپ: `cart rolls forward, onagers pull, army marches, dust`
 
 **P036** · 05.04 · مرجع: REF-PUZUR
 ```
@@ -377,10 +382,11 @@ Cinematic realistic historical film still, 16:9, ancient Elam and Mesopotamia, p
 ```
 کلیپ: `workers move, shadows move, haze`
 
-**P060** · 07.05
+**P060** 🎥 · 07.05
 ```
 Cinematic realistic historical film still, 16:9, ancient Elam and Mesopotamia, palette of deep lapis-lazuli blue and burnt terracotta with warm gold highlights, low-key dramatic lighting, oil-lamp and torch glow, volumetric dust and smoke, shallow depth of field, 35mm anamorphic lens, subtle film grain, historically accurate costume and architecture, no text, no letters, no logos, no watermark, no modern objects, no cartoon, no knitted or fur hats, no modern brimmed hats. The completed ziggurat of Chogha Zanbil around 1250 BCE, five stepped stories crowned with glazed blue bricks, a procession of Elamite priests on the stairs. Character details — Elamite priests: Elamite priests with shaved heads and long fringed white wool robes, carrying torches and offering bowls.
 ```
+کلیپ: `slow aerial orbit, priests climb, sunrise light spreads`
 
 **P061** · 07.06
 ```
@@ -417,10 +423,11 @@ Cinematic realistic historical film still, 16:9, ancient Elam and Mesopotamia, p
 ```
 کلیپ: `chariots charge, dust, smoke`
 
-**P067** · 08.04 · مرجع: REF-ELAMITE-SOLDIER-MIDDLE
+**P067** 🎥 · 08.04 · مرجع: REF-ELAMITE-SOLDIER-MIDDLE
 ```
 Cinematic realistic historical film still, 16:9, ancient Elam and Mesopotamia, palette of deep lapis-lazuli blue and burnt terracotta with warm gold highlights, low-key dramatic lighting, oil-lamp and torch glow, volumetric dust and smoke, shallow depth of field, 35mm anamorphic lens, subtle film grain, historically accurate costume and architecture, no text, no letters, no logos, no watermark, no modern objects, no cartoon, no knitted or fur hats, no modern brimmed hats. Elamite soldiers hauling a huge carved stone stele out of a Babylonian temple with ropes and rollers. Character details — Elamite soldiers: Middle Elamite soldiers around 1150 BCE, bearded, simple domed bronze helmets, belted fringed tunics, composite bows, bronze spears, light two-wheeled chariots.
 ```
+کلیپ: `soldiers pull ropes, stele rolls on logs, dust`
 
 **P068** 🎥 · 08.05
 ```
@@ -545,10 +552,11 @@ Cinematic realistic historical film still, 16:9, ancient Elam and Mesopotamia, p
 ```
 کلیپ: `chaos, arrows, splashes`
 
-**P090** · 10.07 · مرجع: REF-TEUMMAN
+**P090** 🎥 · 10.07 · مرجع: REF-TEUMMAN
 ```
 Cinematic realistic historical film still, 16:9, ancient Elam and Mesopotamia, palette of deep lapis-lazuli blue and burnt terracotta with warm gold highlights, low-key dramatic lighting, oil-lamp and torch glow, volumetric dust and smoke, shallow depth of field, 35mm anamorphic lens, subtle film grain, historically accurate costume and architecture, no text, no letters, no logos, no watermark, no modern objects, no cartoon, no knitted or fur hats, no modern brimmed hats. King Teumman wounded by an arrow, kneeling in the dust beside his son, an Assyrian soldier raising a sword behind them (cut before the blow). Character details — King Teumman: Teumman king of Elam, about 50, strongly receding hairline with short grey hair at the back, broad royal headband tied at the back, short grey pointed beard, tired sunken eyes, knee-length fringed royal tunic in dark blue with gold edging, a large bow, in battle wounded by an arrow in his back.
 ```
+کلیپ: `slow push-in, he looks up, sword shadow rises, cut before the blow`
 
 **P091** · 10.08
 ```
@@ -660,10 +668,11 @@ Cinematic realistic historical film still, 16:9, ancient Elam and Mesopotamia, p
 
 ### بخش 13
 
-**P110** · 13.01 · مرجع: REF-HUMBAN-HALTASH
+**P110** 🎥 · 13.01 · مرجع: REF-HUMBAN-HALTASH
 ```
 Cinematic realistic historical film still, 16:9, ancient Elam and Mesopotamia, palette of deep lapis-lazuli blue and burnt terracotta with warm gold highlights, low-key dramatic lighting, oil-lamp and torch glow, volumetric dust and smoke, shallow depth of field, 35mm anamorphic lens, subtle film grain, historically accurate costume and architecture, no text, no letters, no logos, no watermark, no modern objects, no cartoon, no knitted or fur hats, no modern brimmed hats. King Humban-haltash on horseback fleeing up a misty mountain path at dawn. Character details — King Humban-haltash: Humban-haltash III king of Elam, about 40, gaunt face, hollow cheeks, short black beard, black hair bound by a narrow royal headband, haunted eyes, dark red fringed tunic; when captured: the same face, dirty, torn tunic, the headband gone leaving a pale mark on the forehead.
 ```
+کلیپ: `horse climbs the path, mist rolls, he looks back`
 
 **P111** · 13.02 · مرجع: REF-HUMBAN-HALTASH
 ```
@@ -701,20 +710,22 @@ Cinematic realistic historical film still, 16:9, ancient Elam and Mesopotamia, p
 Cinematic realistic historical film still, 16:9, ancient Elam and Mesopotamia, palette of deep lapis-lazuli blue and burnt terracotta with warm gold highlights, low-key dramatic lighting, oil-lamp and torch glow, volumetric dust and smoke, shallow depth of field, 35mm anamorphic lens, subtle film grain, historically accurate costume and architecture, no text, no letters, no logos, no watermark, no modern objects, no cartoon, no knitted or fur hats, no modern brimmed hats. Assyrian sculptors carving a gypsum wall relief of a garden scene in the palace of Nineveh.
 ```
 
-**P118** · 13.10 · مرجع: REF-ASHURBANIPAL
+**P118** 🎥 · 13.10 · مرجع: REF-ASHURBANIPAL
 ```
 Cinematic realistic historical film still, 16:9, ancient Elam and Mesopotamia, palette of deep lapis-lazuli blue and burnt terracotta with warm gold highlights, low-key dramatic lighting, oil-lamp and torch glow, volumetric dust and smoke, shallow depth of field, 35mm anamorphic lens, subtle film grain, historically accurate costume and architecture, no text, no letters, no logos, no watermark, no modern objects, no cartoon, no knitted or fur hats, no modern brimmed hats. King Ashurbanipal reclining on a couch in a lush garden, the Assyrian queen seated opposite, cups raised, servants with fans, birds in the trees (cinematic reconstruction of the relief). Character details — King Ashurbanipal: Ashurbanipal king of Assyria, about 40 years old, hawk-like nose, narrow cold eyes lined with black kohl, long rectangular black beard curled in tight horizontal rows with a few gold rings woven in, shoulder-length curled hair, tall truncated-cone white-and-gold royal tiara with a small point on top and two long ribbons behind, heavy fringed robe embroidered with rosettes in red and gold, gold rosette bracelets on both wrists, a dagger in his belt | the Assyrian queen: Libbali-sharrat queen of Assyria, about 35, calm face, black hair under a crenellated city-wall crown, long fringed robe with rosettes, heavy gold necklaces.
 ```
+کلیپ: `slow lateral dolly, cups raise, fans wave, birds move`
 
 **P119** · 13.11
 ```
 Cinematic realistic historical film still, 16:9, ancient Elam and Mesopotamia, palette of deep lapis-lazuli blue and burnt terracotta with warm gold highlights, low-key dramatic lighting, oil-lamp and torch glow, volumetric dust and smoke, shallow depth of field, 35mm anamorphic lens, subtle film grain, historically accurate costume and architecture, no text, no letters, no logos, no watermark, no modern objects, no cartoon, no knitted or fur hats, no modern brimmed hats. Slow pan along the branches of a garden tree in green light.
 ```
 
-**P120** · 13.12
+**P120** 🎥 · 13.12
 ```
 Cinematic realistic historical film still, 16:9, ancient Elam and Mesopotamia, palette of deep lapis-lazuli blue and burnt terracotta with warm gold highlights, low-key dramatic lighting, oil-lamp and torch glow, volumetric dust and smoke, shallow depth of field, 35mm anamorphic lens, subtle film grain, historically accurate costume and architecture, no text, no letters, no logos, no watermark, no modern objects, no cartoon, no knitted or fur hats, no modern brimmed hats. Dark silhouette of a head hanging from a pine branch, in shadow, no gore.
 ```
+کلیپ: `very slow push-in, branch sways slightly, light flickers`
 
 **P121** · 13.13
 ```
@@ -774,10 +785,11 @@ Cinematic realistic historical film still, 16:9, ancient Elam and Mesopotamia, p
 Cinematic realistic historical film still, 16:9, ancient Elam and Mesopotamia, palette of deep lapis-lazuli blue and burnt terracotta with warm gold highlights, low-key dramatic lighting, oil-lamp and torch glow, volumetric dust and smoke, shallow depth of field, 35mm anamorphic lens, subtle film grain, historically accurate costume and architecture, no text, no letters, no logos, no watermark, no modern objects, no cartoon, no knitted or fur hats, no modern brimmed hats. An Elamite scribe teaching a young Persian boy to write cuneiform on clay, under a tree.
 ```
 
-**P131** · 15.04 · مرجع: REF-CYRUS
+**P131** 🎥 · 15.04 · مرجع: REF-CYRUS
 ```
 Cinematic realistic historical film still, 16:9, ancient Elam and Mesopotamia, palette of deep lapis-lazuli blue and burnt terracotta with warm gold highlights, low-key dramatic lighting, oil-lamp and torch glow, volumetric dust and smoke, shallow depth of field, 35mm anamorphic lens, subtle film grain, historically accurate costume and architecture, no text, no letters, no logos, no watermark, no modern objects, no cartoon, no knitted or fur hats, no modern brimmed hats. Cyrus entering Babylon in 539 BCE, calm, crowds watching. Character details — Cyrus: Cyrus the Great, about 40, calm intelligent face, short rounded black beard, dark eyes, simple Persian court robe with wide sleeves, a plain fluted gold-trimmed cap; as a young prince around 560 BCE: about 20, light beard, riding cloak.
 ```
+کلیپ: `slow tracking shot, crowds part, banners move`
 
 **P132** · 15.07
 ```
