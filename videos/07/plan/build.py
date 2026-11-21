@@ -3,9 +3,18 @@ import sys,re,os; sys.path.insert(0,os.path.dirname(__file__))
 import shots, chars
 S,C,BASE=shots.S,chars.C,chars.BASE
 os.chdir(os.path.join(os.path.dirname(__file__),'..'))
+SHORT={"SCRIBE":"the young scribe","ASHURBANIPAL":"King Ashurbanipal","ASSYRIAN-QUEEN":"the Assyrian queen","SHAMASH-SHUM-UKIN":"King Shamash-shum-ukin",
+"ESARHADDON":"old King Esarhaddon","TEUMMAN":"King Teumman","HUMBAN-HALTASH":"King Humban-haltash","UNTASH":"King Untash-Napirisha","NAPIRASU":"Queen Napir-Asu",
+"SHUTRUK":"King Shutruk-Nahhunte","PUZUR":"Puzur-Inshushinak","IBBI-SIN":"King Ibbi-Sin","SARGON":"Sargon","HAMMURABI":"Hammurabi","NEBUCHADNEZZAR":"King Nebuchadnezzar I",
+"CYRUS":"Cyrus","PERSIAN-SCRIBE":"the Persian scribe","ELAMITE-SOLDIER-OLD":"early Elamite soldiers","ELAMITE-SOLDIER-MIDDLE":"Elamite soldiers",
+"ELAMITE-SOLDIER-NEO":"Elamite soldiers","ASSYRIAN-SOLDIER":"Assyrian soldiers","BABYLONIAN-SOLDIER":"Babylonian soldiers","AKKADIAN-SOLDIER":"Akkadian soldiers",
+"SUMERIAN":"Sumerian","ELAMITE-PRIEST":"Elamite priests"}
 def fill(p):
-    for k,(fa,role,era,blk) in C.items(): p=p.replace(f'[{k}]',blk)
+    toks=list(dict.fromkeys(re.findall(r'\[([A-Z-]+)\]',p)))
+    for k in toks: p=p.replace(f'[{k}]',SHORT[k])
     assert '[' not in p, p
+    p=p.rstrip('. ')+'.'
+    if toks: p+=' Character details — '+' | '.join(f'{SHORT[k]}: {C[k][3]}' for k in toks)+'.'
     return p
 SHEET=["SCRIBE","ASHURBANIPAL","TEUMMAN","HUMBAN-HALTASH","SHAMASH-SHUM-UKIN","UNTASH","NAPIRASU","SHUTRUK","PUZUR","CYRUS","ASSYRIAN-SOLDIER","ELAMITE-SOLDIER-NEO","ELAMITE-SOLDIER-MIDDLE","ELAMITE-SOLDIER-OLD"]
 STATUS=dict(l.split(' ',1) for l in open('plan/ref-status.txt').read().strip().splitlines()) if os.path.exists('plan/ref-status.txt') else {}
