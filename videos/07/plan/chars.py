@@ -2,7 +2,7 @@
 BASE = ("Cinematic realistic historical film still, 16:9, ancient Elam and Mesopotamia, palette of deep lapis-lazuli blue and burnt terracotta "
         "with warm gold highlights, low-key dramatic lighting, oil-lamp and torch glow, volumetric dust and smoke, shallow depth of field, "
         "35mm anamorphic lens, subtle film grain, historically accurate costume and architecture, no text, no letters, no logos, no watermark, "
-        "no modern objects, no cartoon.")
+        "no modern objects, no cartoon, no knitted or fur hats, no modern brimmed hats.")
 
 # name: (persian title, role, era, block)
 C = {
@@ -28,7 +28,7 @@ C = {
   "Humban-haltash III king of Elam, about 40, gaunt face, hollow cheeks, short black beard, black hair bound by a narrow royal headband, haunted eyes, "
   "dark red fringed tunic; when captured: the same face, dirty, torn tunic, the headband gone leaving a pale mark on the forehead"),
 "UNTASH": ("اونتاش ناپیریشا، شاه ایلام", "سازنده‌ی چغازنبیل", "حدود ۱۲۵۰ پ.م",
-  "Untash-Napirisha king of Elam, about 45, calm wise face, long full black beard in vertical ripples, round royal cap with a wide brim, "
+  "Untash-Napirisha king of Elam, about 45, calm wise face, long full black beard in vertical ripples, low rounded royal cap of smooth dark felt that hugs the skull, with a narrow rolled brim and a thin gold band (ancient Elamite royal cap, not a modern brimmed hat), "
   "ankle-length wool robe with heavy fringed hem and a shawl wrapped over one shoulder, a bronze mace with a gold head, gold armlets"),
 "NAPIRASU": ("ناپیرآسو، ملکه", "مجسمه و نفرین", "حدود ۱۲۵۰ پ.م",
   "Napir-Asu queen of Elam, about 35, oval calm face, straight nose, dark eyes, black hair gathered under a fine veil, hands clasped at the waist, "
@@ -37,20 +37,20 @@ C = {
   "Shutruk-Nahhunte king of Elam, about 50, hard ambitious face, deep-set eyes, broad shoulders, long black beard streaked with grey and tied at the end, "
   "brimless tall round cap with a gold band, dark robe with red fringes, a bronze sword at the hip"),
 "PUZUR": ("پوزور اینشوشیناک", "اولین قهرمان ایلام", "حدود ۲۱۰۰ پ.م",
-  "Puzur-Inshushinak ruler of Elam, about 40, broad nose, fierce bright eyes, full black beard, round woolen cap, long fringed robe over one shoulder, a copper mace"),
+  "Puzur-Inshushinak ruler of Elam, about 40, broad nose, fierce bright eyes, full black beard, a close-fitting smooth felt skullcap with a rolled rim (no fur, no knitted texture), long fringed robe over one shoulder, a copper mace"),
 "IBBI-SIN": ("ایبی‌سین، شاه اور", "سقوط اور", "حدود ۲۰۰۴ پ.م",
-  "Ibbi-Sin last king of Ur, about 45, Sumerian king with a full long beard, round brimmed royal cap, long tufted wool robe over the left shoulder, a defeated proud face"),
+  "Ibbi-Sin last king of Ur, about 45, Sumerian king with a full long beard, round royal cap of smooth felt with a thick rolled brim (no knitted texture), long tufted wool robe over the left shoulder, a defeated proud face"),
 "SARGON": ("سارگون اکدی", "امپراتوری اکد", "حدود ۲۳۰۰ پ.م",
   "Sargon of Akkad, about 50, stern face, elaborately braided long beard, hair gathered in a bun at the back held by a headband, long robe, a curved bronze sickle-sword"),
 "HAMMURABI": ("حمورابی، شاه بابل", "دشمن ایلام", "حدود ۱۷۶۴ پ.م",
-  "Hammurabi king of Babylon, about 45, long rectangular beard, round cap with a thick rolled brim, long robe over one shoulder, right hand raised in a gesture of respect"),
+  "Hammurabi king of Babylon around 1760 BCE, about 45, long rectangular beard, low round cap of smooth felt with a thick rolled brim (no crown, no feathers), plain long robe draped over one shoulder, right hand raised in a gesture of respect, in a plain sun-dried mud-brick palace (no blue glazed bricks, no lion reliefs)"),
 "NEBUCHADNEZZAR": ("نبوکدنصر یکم، شاه بابل", "انتقام مردوخ", "حدود ۱۱۱۰ پ.م",
-  "Nebuchadnezzar I king of Babylon, about 40, intense determined face, long black beard, tall cylindrical cap with a feather-like crest, belted fringed robe, a bronze sword"),
+  "Nebuchadnezzar I king of Babylon around 1110 BCE, about 40, intense determined face, long black beard, tall smooth cylindrical royal cap with a small crest at the top, belted fringed robe, a bronze sword, in a plain mud-brick hall (no blue glazed bricks, no lion or dragon reliefs, no Ishtar Gate)"),
 "CYRUS": ("کوروش", "شاه انشان", "۵۶۰ تا ۵۳۹ پ.م",
   "Cyrus the Great, about 40, calm intelligent face, short rounded black beard, dark eyes, simple Persian court robe with wide sleeves, a plain fluted gold-trimmed cap; "
   "as a young prince around 560 BCE: about 20, light beard, riding cloak"),
 "PERSIAN-SCRIBE": ("کاتب هخامنشی", "آخر فیلم", "حدود ۵۰۰ پ.م",
-  "an Achaemenid scribe about 30, neat squared black beard, rounded fluted felt cap, Persian court robe with wide pleated sleeves, writing Elamite cuneiform on a clay tablet with a reed stylus"),
+  "an Achaemenid scribe about 30, neat squared black beard, tall smooth fluted felt cap with vertical pleats (Achaemenid style, no knitted texture), Persian court robe with wide pleated sleeves, writing Elamite cuneiform on a clay tablet with a reed stylus"),
 # generic soldiers and people (types, not faces)
 "ELAMITE-SOLDIER-OLD": ("سرباز ایلامی کهن", "", "۲۳۰۰ تا ۱۷۰۰ پ.م",
   "early Elamite infantrymen around 2000 BCE, bearded, leather caps or bare heads, wool kilts, tall rectangular hide shields, long spears, copper axes, war carts pulled by onagers, no horses"),
