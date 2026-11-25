@@ -29,7 +29,9 @@ const LAND_PATH = land.coordinates
 
 // ── rivers: real courses from Natural Earth (Tigris, Euphrates, Karkheh); Karun and Dez (not in the dataset) hand-traced with meanders ──
 const NE = riversRaw as { n: string; p: LL[] }[];
-const NE_PATH = NE.filter((r) => !/Canal|Channel|Branch/.test(r.n)).map((r) => pathOf(r.p)).join("");
+// faint background river network: only the Near East, every 4th point (the full set made each map frame ~5x slower)
+const NE_PATH = NE.filter((r) => !/Canal|Channel|Branch/.test(r.n) && r.p.some(([x, y]) => x > 26 && x < 66 && y > 22 && y < 44))
+  .map((r) => pathOf(r.p.filter((_, i) => i % 4 === 0 || i === r.p.length - 1))).join("");
 const chain = (...names: string[]): LL[] => {
   const segs = NE.filter((r) => names.includes(r.n) && r.p.length > 8).sort((a, b) => b.p[0][1] - a.p[0][1]);
   return segs.flatMap((r) => r.p);
