@@ -24,7 +24,7 @@ const ELAM = "#2fb3ad", MESO = "#c2412f", ASSYR = "#8a5cc4", MEDE = "#5aa860", A
 const pathOf = (pts: LL[], close = false) => pts.map((p, i) => { const [x, y] = P(p); return `${i ? "L" : "M"}${x.toFixed(1)} ${y.toFixed(1)}`; }).join("") + (close ? "Z" : "");
 const land = landRaw as { coordinates: number[][][][] };
 const LAND_PATH = land.coordinates
-  .map((poly) => poly.filter((ring) => ring.some((p) => p[0] > 10 && p[0] < 85 && p[1] > 5 && p[1] < 58)).map((ring) => pathOf(ring as unknown as LL[], true)).join(""))
+  .map((poly) => poly.filter((ring) => ring.length > 12 && ring.some((p) => p[0] > 14 && p[0] < 78 && p[1] > 12 && p[1] < 50)).map((ring) => pathOf((ring as unknown as LL[]).filter((_, i) => i % 3 === 0), true)).join("")) // clip only: small islands dropped, every 3rd point (keeps map frames fast)
   .join("");
 
 // ── rivers: real courses from Natural Earth (Tigris, Euphrates, Karkheh); Karun and Dez (not in the dataset) hand-traced with meanders ──
@@ -196,7 +196,7 @@ export const MapScene: React.FC<{ id: string; p: number; t: number; bare?: boole
   const relief = (T: typeof NEAR) => { const [x, y] = scr([T.lon0, T.lat1]); return <Img src={staticFile(T.f)} style={{ position: "absolute", left: x, top: y, width: (T.lon1 - T.lon0) * KX * z, height: (T.lat1 - T.lat0) * K * z, maxWidth: "none" }} />; };
   return (
     <div style={{ position: "absolute", inset: 0, background: SEA }}>
-      {relief(WIDE)}
+      {!nearOk && relief(WIDE)}
       {nearOk && relief(NEAR)}
       <div style={{ position: "absolute", inset: 0, background: "rgba(14,10,5,0.16)" }} />
       <svg width={W} height={H} viewBox={`0 0 ${W} ${H}`} style={{ position: "absolute", inset: 0 }}>
