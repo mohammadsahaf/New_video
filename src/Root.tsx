@@ -17,6 +17,7 @@ import { LIGHTLOGO_FPS, LIGHTLOGO_FRAMES, LIGHTLOGO_LOOK, LightLogoVideo } from 
 import { DESK_FPS, DESK_FRAMES, DESK_LOOK, DeskVideo } from "./styles/studio-desk";
 import { ArtMotionCompositions } from "./styles/art-motion";
 import { FootageReelComps } from "./footage-starter/FootageReel";
+import { V07, V07Look, FPS as V07_FPS, FRAMES as V07_FRAMES, LOOK as V07_LOOK } from "./v07/V07";
 
 // Every video = one <Composition>. The style demos below are the reference films / starter templates (see STYLES.md).
 // They play silent: the films’ narration, music and effects are not shipped — each style’s pipeline/ folder says how to make yours.
@@ -57,6 +58,10 @@ export const RemotionRoot: React.FC = () => {
           Card: styles/art-motion.md. Your video: cp src/art-starter/StoryVideo.tsx src/v01/Video.tsx → import { V01 } from "./v01/Video"; <V01 /> */}
       <ArtMotionCompositions />
       <FootageReelComps />
+      {/* V07 · Elam: the film (with audio), "-Silent" (render this, then mux the mix) and "-Look" (review stills) */}
+      <Composition id="V07" component={V07} durationInFrames={V07_FRAMES} fps={V07_FPS} width={1920} height={1080} />
+      <Composition id="V07-Silent" component={V07} durationInFrames={V07_FRAMES} fps={V07_FPS} width={1920} height={1080} defaultProps={{ silent: true }} />
+      <Composition id="V07-Look" component={V07Look} durationInFrames={V07_LOOK.length} fps={V07_FPS} width={1920} height={1080} defaultProps={{ times: V07_LOOK }} />
       {/* your videos: <Composition id="V01" component={Video01} durationInFrames={…} fps={30} width={1080} height={1920} /> */}
     </>
   );
