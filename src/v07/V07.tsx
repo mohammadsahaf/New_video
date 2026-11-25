@@ -48,6 +48,7 @@ const mediaOf = (s: S): Media => {
 
 // a light footage bed: no CSS filters and no per-frame noise (both are very slow on a CPU-only renderer);
 // the stills are already graded, and film grain is added once in the final encode
+const SIDE_CARDS = (planRaw as unknown as { scenes: Scene[] }).scenes.filter((x) => x.kind === "card" && !x.full);
 const Layer: React.FC<{ s: S; t: number }> = ({ s, t }) => {
   const { w: DW, h: DH } = useContext(Dims);
   const frame = useCurrentFrame();
@@ -60,10 +61,14 @@ const Layer: React.FC<{ s: S; t: number }> = ({ s, t }) => {
   const focus = s.focus ?? [0.5, 0.5], pan = s.pan ?? [0, 0];
   const fx = clamp(focus[0] + pan[0] * p), fy = clamp(focus[1] + pan[1] * p);
   // real photos: the whole picture stays visible (contain) on a dark plate; stills and clips fill the frame (cover)
-  const sc = (m.art ? Math.min((DW * 0.9) / m.w, (DH * 0.9) / m.h) : Math.max(DW / m.w, DH / m.h)) * (m.art ? 1 + 0.05 * p : z);
+  // real photos sit in a plate that clears the chapter title (top ~230 px) and the subtitles (bottom ~880 px);
+  // while a side card is on screen the photo moves to the left half so the card text never lands on it
+  const side = !!m.art && SIDE_CARDS.some((c) => t > c.at - 0.5 && t < c.until + 0.6);
+  const bw = side ? DW * 0.5 : DW * 0.86, bh = DH * 0.54, bcx = side ? DW * 0.27 : DW / 2, bcy = DH * 0.53;
+  const sc = (m.art ? Math.min(bw / m.w, bh / m.h) : Math.max(DW / m.w, DH / m.h)) * (m.art ? 1 + 0.03 * p : z);
   const vw = m.w * sc, vh = m.h * sc;
-  const left = m.art ? (DW - vw) / 2 : Math.min(0, Math.max(DW - vw, DW / 2 - fx * vw));
-  const top = m.art ? (DH - vh) / 2 : Math.min(0, Math.max(DH - vh, DH / 2 - fy * vh));
+  const left = m.art ? bcx - vw / 2 : Math.min(0, Math.max(DW - vw, DW / 2 - fx * vw));
+  const top = m.art ? bcy - vh / 2 : Math.min(0, Math.max(DH - vh, DH / 2 - fy * vh));
   const style: React.CSSProperties = { position: "absolute", left: 0, top: 0, width: m.w, height: m.h, maxWidth: "none", transformOrigin: "0 0", transform: `translate(${left}px, ${top}px) scale(${sc})` };
   if (still) {
     return (
@@ -116,7 +121,7 @@ const Card: React.FC<{ s: Scene; t: number }> = ({ s, t }) => {
   return (
     <AbsoluteFill style={{ opacity: o, direction: "rtl" }}>
       <div style={{ position: "absolute", inset: 0, background: "linear-gradient(90deg, rgba(0,0,0,0) 28%, rgba(0,0,0,0.74) 100%)" }} />
-      <div style={{ position: "absolute", right: 110, top: 280, textAlign: "right", maxWidth: 1000, transform: `translateX(${(1 - k) * -40}px)` }}>
+      <div style={{ position: "absolute", right: 110, top: 280, textAlign: "right", maxWidth: 820, transform: `translateX(${(1 - k) * -40}px)` }}>
         <div style={{ width: 90, height: 4, background: GOLD, marginBottom: 22, marginLeft: "auto" }} />
         <div style={{ font: `${big * 0.9}px/1.2 ${FONT_NUM}`, color: GOLD, textShadow: "0 6px 30px #000", whiteSpace: "pre-line" }}>{s.text}</div>
         {s.sub && <div style={{ font: `40px ${FONT_TEXT}`, color: INK, marginTop: 18, textShadow: "0 3px 14px #000" }}>{s.sub}</div>}
