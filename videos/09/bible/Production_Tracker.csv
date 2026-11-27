@@ -1,0 +1,26 @@
+Shot_ID,Scene,Duration_Sec,Tier,Characters,Location,First_Frame_Status,Video_Status,Audio_Status,File_Name,Notes
+S01_SH01,01,4,TBD,,LOC_01,Pending,Pending,Pending,S01_SH01.mp4,Black, drop on water
+S01_SH02,01,6,TBD,,LOC_01,Pending,Pending,Pending,S01_SH02.mp4,EWS boat in fog
+S01_SH03,01,5,TBD,CHAR_01B,LOC_01,Pending,Pending,Pending,S01_SH03.mp4,Insert hand on pole
+S01_SH04,01,6,TBD,CHAR_06,LOC_01,Pending,Pending,Pending,S01_SH04.mp4,Urshanabi line 1 LIPSYNC
+S01_SH05,01,5,TBD,CHAR_01B,LOC_01,Pending,Pending,Pending,S01_SH05.mp4,Releases pole
+S01_SH06,01,6,TBD,CHAR_01B,LOC_01,Pending,Pending,Pending,S01_SH06.mp4,ECU eye
+S01_SH07,01,6,TBD,,LOC_01,Pending,Pending,Pending,S01_SH07.mp4,Floating poles OTS
+S01_SH08,01,6,TBD,CHAR_01B,LOC_01,Pending,Pending,Pending,S01_SH08.mp4,Leans over water
+S01_SH09,01,6,TBD,CHAR_01B;CHAR_02_CITY,LOC_01,Pending,Pending,Pending,S01_SH09.mp4,POV reflection to Enkidu
+S01_SH10,01,4,TBD,CHAR_01B;CHAR_06,LOC_01,Pending,Pending,Pending,S01_SH10.mp4,Wrist grab
+S01_SH11,01,7,TBD,CHAR_06;CHAR_01B,LOC_01,Pending,Pending,Pending,S01_SH11.mp4,Urshanabi line 2 LIPSYNC OTS
+S01_SH12,01,7,TBD,CHAR_01B,LOC_01,Pending,Pending,Pending,S01_SH12.mp4,Gilgamesh line 1 LIPSYNC
+S01_SH13,01,6,TBD,CHAR_01B,LOC_01,Pending,Pending,Pending,S01_SH13.mp4,Gilgamesh line 2 LIPSYNC low profile
+S01_SH14,01,6,TBD,,LOC_01,Pending,Pending,Pending,S01_SH14.mp4,Boat into mist wall
+S01_SH15,01,6,TBD,NARR,LOC_11,Pending,Pending,Pending,S01_SH15.mp4,Stylus on clay
+S01_SH16,01,6,TBD,NARR,LOC_11,Pending,Pending,Pending,S01_SH16.mp4,Clay cracks
+S01_SH17,01,6,TBD,,LOC_02,Pending,Pending,Pending,S01_SH17.mp4,Match cut to Uruk wall
+S01_SH18,01,6,TBD,CHAR_01A;CHAR_02_CITY,LOC_02,Pending,Pending,Pending,S01_SH18.mp4,Flash wrestling
+S01_SH19,01,4,TBD,,LOC_05,Pending,Pending,Pending,S01_SH19.mp4,Flash eye in fog
+S01_SH20,01,4,TBD,,LOC_02,Pending,Pending,Pending,S01_SH20.mp4,Flash earth cracks
+S01_SH21,01,4,TBD,CHAR_02_CITY,LOC_06,Pending,Pending,Pending,S01_SH21.mp4,Flash hand falls
+S01_SH22,01,6,TBD,,LOC_10,Pending,Pending,Pending,S01_SH22.mp4,Flash flood wave
+S01_SH23,01,6,TBD,,LOC_09,Pending,Pending,Pending,S01_SH23.mp4,Flash snake and plant
+S01_SH24,01,10,TBD,,,Pending,Pending,Pending,S01_SH24.mp4,Title card (code)
+S01_SH25,01,12,TBD,,LOC_02,Pending,Pending,Pending,S01_SH25.mp4,Uruk dawn bridge
