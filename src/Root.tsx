@@ -18,6 +18,7 @@ import { DESK_FPS, DESK_FRAMES, DESK_LOOK, DeskVideo } from "./styles/studio-des
 import { ArtMotionCompositions } from "./styles/art-motion";
 import { FootageReelComps } from "./footage-starter/FootageReel";
 import { V07PosterA, V07ThumbB, V07ThumbC } from "./v07/Covers";
+import { V07ThumbGold } from "./v07/ThumbGold";
 import { V07, V07Look, FPS as V07_FPS, FRAMES as V07_FRAMES, LOOK as V07_LOOK } from "./v07/V07";
 
 // Every video = one <Composition>. The style demos below are the reference films / starter templates (see STYLES.md).
@@ -64,6 +65,7 @@ export const RemotionRoot: React.FC = () => {
       <Composition id="V07-Silent" component={V07} durationInFrames={V07_FRAMES} fps={V07_FPS} width={1920} height={1080} defaultProps={{ silent: true }} />
       <Composition id="V07-PosterA" component={V07PosterA} durationInFrames={30} fps={30} width={1920} height={1080} />
       <Composition id="V07-ThumbB" component={V07ThumbB} durationInFrames={30} fps={30} width={1920} height={1080} />
+      <Composition id="V07-ThumbGold" component={V07ThumbGold} durationInFrames={30} fps={30} width={1920} height={1080} />
       <Composition id="V07-ThumbC" component={V07ThumbC} durationInFrames={30} fps={30} width={1920} height={1080} />
       <Composition id="V07-Look" component={V07Look} durationInFrames={V07_LOOK.length} fps={V07_FPS} width={1920} height={1080} defaultProps={{ times: V07_LOOK }} />
       {/* your videos: <Composition id="V01" component={Video01} durationInFrames={…} fps={30} width={1080} height={1920} /> */}
